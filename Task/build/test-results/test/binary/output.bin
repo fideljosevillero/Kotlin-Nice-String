@@ -1,0 +1,265 @@
+0
+validateVocal 0
+validateDuplicate 0
+validateSubString 0
+validateLowerCase 1
+0
+validateVocal 0
+validateDuplicate 0
+validateSubString 1
+validateLowerCase 1
+0
+validateVocal 1
+validateDuplicate 0
+validateSubString 0
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 0
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+	0
+	validateVocal 1
+	validateDuplicate 0
+	validateSubString 1
+	validateLowerCase 1
+
+1
+
+validateVocal 0
+
+validateDuplicate 1
+
+validateSubString 1
+
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+0
+validateVocal 1
+validateDuplicate 0
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 0
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 0
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 0
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+0
+validateVocal 1
+validateDuplicate 0
+validateSubString 1
+validateLowerCase 1
+0
+validateVocal 1
+validateDuplicate 0
+validateSubString 1
+validateLowerCase 1
+0
+validateVocal 1
+validateDuplicate 0
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 0
+validateDuplicate 1
+validateSubString 1
+validateLowerCase 1
+1
+validateVocal 1
+validateDuplicate 1
+validateSubString 0
+validateLowerCase 1
+ 1
+ validateVocal 1
+ validateDuplicate 1
+ validateSubString 0
+ validateLowerCase 1
+!1
+!validateVocal 1
+!validateDuplicate 1
+!validateSubString 0
+!validateLowerCase 1
+"0
+"validateVocal 0
+"validateDuplicate 0
+"validateSubString 1
+"validateLowerCase 1
+#0
+#validateVocal 1
+#validateDuplicate 0
+#validateSubString 0
+#validateLowerCase 1
+$1
+$validateVocal 0
+$validateDuplicate 1
+$validateSubString 0
+$validateLowerCase 1
+%1
+%validateVocal 0
+%validateDuplicate 1
+%validateSubString 0
+%validateLowerCase 1
+&1
+&validateVocal 0
+&validateDuplicate 1
+&validateSubString 0
+&validateLowerCase 1
+'0
+'validateVocal 0
+'validateDuplicate 0
+'validateSubString 1
+'validateLowerCase 1
+(1
+(validateVocal 0
+(validateDuplicate 1
+(validateSubString 0
+(validateLowerCase 1
+)0
+)validateVocal 1
+)validateDuplicate 0
+)validateSubString 0
+)validateLowerCase 1
+*1
+*validateVocal 0
+*validateDuplicate 1
+*validateSubString 0
+*validateLowerCase 1
++0
++validateVocal 1
++validateDuplicate 0
++validateSubString 0
++validateLowerCase 1
+,0
+,validateVocal 0
+,validateDuplicate 0
+,validateSubString 1
+,validateLowerCase 1
+-0
+-validateVocal 0
+-validateDuplicate 0
+-validateSubString 1
+-validateLowerCase 1
+.0
+.validateVocal 0
+.validateDuplicate 0
+.validateSubString 1
+.validateLowerCase 1
+/0
+/validateVocal 0
+/validateDuplicate 0
+/validateSubString 1
+/validateLowerCase 1
+00
+0validateVocal 0
+0validateDuplicate 0
+0validateSubString 1
+0validateLowerCase 1
+10
+1validateVocal 0
+1validateDuplicate 0
+1validateSubString 0
+1validateLowerCase 1
+20
+2validateVocal 0
+2validateDuplicate 0
+2validateSubString 0
+2validateLowerCase 1
+30
+3validateVocal 0
+3validateDuplicate 0
+3validateSubString 0
+3validateLowerCase 1
+40
+4validateVocal 1
+4validateDuplicate 0
+4validateSubString 0
+4validateLowerCase 1
+50
+5validateVocal 1
+5validateDuplicate 0
+5validateSubString 0
+5validateLowerCase 1
